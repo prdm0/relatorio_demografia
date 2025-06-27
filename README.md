@@ -13,4 +13,8 @@ Enumerando qualquer coisa:
 1. Item 1
 2. Item 2
 
-Este é um projeto da disciplina de demografia da professora Everlane. 
+Este é um projeto da disciplina de demografia da professora Everlane.
+
+# Cria outra seção no meu REAMDE.md
+
+![](https://upload.wikimedia.org/wikipedia/pt/9/91/Alf-Poster.jpg)
